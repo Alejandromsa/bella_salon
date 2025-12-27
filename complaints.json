@@ -1,0 +1,25 @@
+[
+  {
+    "id": 1766523743143,
+    "timestamp": "2025-12-23T21:02:23.143Z",
+    "salon": {
+      "businessName": "Bella Salon E.I.R.L.",
+      "ruc": "20123456789",
+      "fiscalAddress": "Av. Las Gardenias 456, Santiago de Surco, Lima"
+    },
+    "fullName": "Alejandro Manuel Salinas Ayala",
+    "documentType": "DNI",
+    "documentNumber": "70110457",
+    "address": "Sjl",
+    "phone": "970371726",
+    "email": "baaljano@gmail.com",
+    "guardianName": "",
+    "type": "Servicio",
+    "amountClaimed": "100",
+    "description": "corte de cabello",
+    "complaintType": "Reclamación",
+    "detail": "no quedó como esperaba",
+    "request": "devolucion de dinero",
+    "consent": true
+  }
+]

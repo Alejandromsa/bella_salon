@@ -1,0 +1,17 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(mysql:*)",
+      "Bash(npm run build:*)",
+      "Bash(\"C:\\Users\\usuario\\Downloads\\web_app_salon\\beauty-salon\\src\\app\\api\\clients\\search\\route.ts\")",
+      "Bash(\"C:\\Users\\usuario\\Downloads\\web_app_salon\\beauty-salon\\src\\app\\api\\holidays\\route.ts\")",
+      "Bash(npm install:*)",
+      "Bash(cat:*)",
+      "Bash(git init:*)",
+      "Bash(git remote add:*)",
+      "Bash(git add:*)"
+    ],
+    "deny": [],
+    "ask": []
+  }
+}
